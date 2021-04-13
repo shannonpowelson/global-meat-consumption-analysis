@@ -5,9 +5,6 @@ For this analysis, global meat consumption is analyzed.  There has been a growin
 ## Business Question
 _How has global beef consumption and the cardiovascular death rate changed over time?_
 
-## Data Questions
-_Is beef consumption 
-
 ## Data Sources
 
 ## Data Analysis
@@ -27,20 +24,25 @@ We also graph the beef consumption over time for the three low meat consumption 
 
 We want to explore also explore the cardiovascular death rates.  Therefore, we graph the amount of deaths from cardiovascular disease over time per 100,000 people. We focused on the same six countries for comparison purposes.  
 
-
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/heart_death%20(2).png)
 
 In order to get a better idea of the trends, we graph the cardiovascular disease deaths over time for the three high meat consumption countries.  
 
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/heart_death_high%20(1).png)
+
 We also graph the cardiovascular disease deaths over time for the three low meat consumption countries.  
 
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/heart_death_low%20(1).png)
 
 Finally, to put the beef consumption trends into context, we graph poultry, sheep, pig, and beef consumption over time for one high meat consumption country (The United States) and one low meat consumption country (India).  
 
-Here is the graph for the poultry, sheep, pig, and beef consumption over time in the United States.  
+Here is the graph for the poultry, sheep, pig, and beef consumption over time in the United States. 
 
-Here is the graph for the poultry, sheep, pig, and beef consumption over time in India.  
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/other_meats_USA%20(2).png)
 
+Here is the graph for the poultry, sheep, pig, and beef consumption over time in India. 
 
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/other_meats_IND%20(1).png)
 
 ## Summary
 

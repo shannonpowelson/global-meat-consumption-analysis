@@ -15,14 +15,15 @@ To answer our question, we first investigated beef consumption from 1991 to 2026
 
 This graph shows the beef consumption over time for all six countries.  
 
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/least_and_most_consumption%20(3).png)
 
 In order to get a better idea of the trends, we graphed the beef consumption over time for the three high meat consumption countries.  
 
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/most_consumption%20(3).png)
 
 We also graphed the beef consumption over time for the three low meat consumption countries.  
 
-
-
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/least_consumption%20(3).png)
 
 
 ## Summary

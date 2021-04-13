@@ -14,25 +14,41 @@ This graph shows the beef consumption over time for all six countries.
 
 ![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/least_and_most_consumption%20(3).png)
 
+
 In order to get a better idea of the trends, we graph the beef consumption over time for the three high meat consumption countries.  
 
 ![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/most_consumption%20(3).png)
+
+This graph shows that beef consumption in Israel appears to be on an incline, Australia is on a decline, and the United States appears to be on a very slight decline.  
+
 
 We also graph the beef consumption over time for the three low meat consumption countries.  
 
 ![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/least_consumption%20(3).png)
 
-We want to explore also explore the cardiovascular death rates.  Therefore, we graph the amount of deaths from cardiovascular disease over time per 100,000 people. We focused on the same six countries for comparison purposes.  
+This graph shows that beef consumption in Mozambique is on an incline, Bangladesh is on a slight decline, and India appears to be constant for this year.  
+
+
+We want to explore also explore the cardiovascular disease death.  Therefore, we graph the amount of deaths from cardiovascular disease over time per 100,000 people. We focused on the same six countries for comparison purposes.  
 
 ![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/heart_death%20(2).png)
+
+Contrary to our expectations, the three low meat consumption countries have higher cardiovascular disease deaths.  
+
 
 In order to get a better idea of the trends, we graph the cardiovascular disease deaths over time for the three high meat consumption countries.  
 
 ![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/heart_death_high%20(1).png)
 
+This graph shows that the the cardiovascular disease deaths is decreasing for each of these countries.  This is contradicts the study since Israel has a steep increase in meat consumption but also a steep decrease in cardiovascular deaths.    
+
+
 We also graph the cardiovascular disease deaths over time for the three low meat consumption countries.  
 
 ![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/heart_death_low%20(1).png)
+
+This graph shows that the cardiovascular disease deaths is decreasing for Mozambique and Bangladesh and slightly decreasing for India.  This is contrary to the research study since Mozambique has a steep increase in beef consumption but also a steep decrease in cardiovascular disease deaths.  
+
 
 Finally, to put the beef consumption trends into context, we graph poultry, sheep, pig, and beef consumption over time for one high meat consumption country (The United States) and one low meat consumption country (India).  
 
@@ -44,7 +60,7 @@ Here is the graph for the poultry, sheep, pig, and beef consumption over time in
 
 ![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/other_meats_IND%20(1).png)
 
+In both of these graphs, poultry consumption is increasing more than the other meats.  
+
 ## Summary
-
-
-GDP might impact it, religion, availability 
+Overall, beef consumption over time and cardiovascular disease deaths over time do not appear to have similar trends.  In fact there are trends that contradict the study that claims that higher beef consumption is linked to a higher risk of cardiovascular disease death.  Both Israel and Mozambique contradict this study since they have increasing beef consumption and decreasing cardiovascular disease deaths.  In addition, the three low beef consumption countries have more cardiovascular disease deaths than the three high beef consumption countries.  Therefore, there are likely confounding variables impacting these results.  Future research on GDP, religion, exercise, and healthcare in these countries over time could provide more insight.  Linear regression should also be used to see if there are any correlations.  This analysis is important for the medical field because it shows that studies on red meat and cardiovascular disease should also take other lifestyle variables into consideration.  

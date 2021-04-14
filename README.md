@@ -6,6 +6,17 @@ For this analysis, global meat consumption is analyzed.  There has been a growin
 _How has global beef consumption and the cardiovascular death rate changed over time?_
 
 ## Data Sources
+1. Meat Consumption Worldwide
+
+https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/meat_consumption_worldwide.csv
+
+This data set contains the consumption of beef, poultry, sheep, and pig for many countries from 1991 to 2026 (predicted values).  This data was downloaded from [Kaggle](https://www.kaggle.com/vagifa/meatconsumption).
+
+2. Cardiovascular Disease Death Rates
+
+https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/cardiovascular-disease-death-rates.csv
+
+This data set contains the number of cardiovascular disease deaths per 100,000 people for each country from 1990 to 2017.  This data was downloaded from [Our World in Data](https://ourworldindata.org/grapher/cardiovascular-disease-death-rates). 
 
 ## Data Analysis
 To answer our question, we first investigate beef consumption from 1991 to 2026 (predicted values)in kilograms per capita.  We focus on six countries for this analysis: three traditionally [high meat consumption countries](https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html) (Australia, United States, and Israel) and three traditionally [low meat consumption countries](https://www.worldatlas.com/articles/countries-who-consume-the-least-meat.html#:~:text=The%20least%20meat%20consuming%20countries,consuming%20country%20in%20the%20world.) (India, Bangladesh, and Mozambique). 

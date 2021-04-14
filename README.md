@@ -19,6 +19,9 @@ https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/ca
 This data set contains the number of cardiovascular disease deaths per 100,000 people for each country from 1990 to 2017.  This data was downloaded from [Our World in Data](https://ourworldindata.org/grapher/cardiovascular-disease-death-rates). 
 
 ## Data Analysis
+
+_Beef Consumption Over Time_
+
 To answer our question, we first investigate beef consumption from 1991 to 2026 (predicted values)in kilograms per capita.  We focus on six countries for this analysis: three traditionally [high meat consumption countries](https://www.worldatlas.com/articles/top-meat-consuming-countries-in-the-world.html) (Australia, United States, and Israel) and three traditionally [low meat consumption countries](https://www.worldatlas.com/articles/countries-who-consume-the-least-meat.html#:~:text=The%20least%20meat%20consuming%20countries,consuming%20country%20in%20the%20world.) (India, Bangladesh, and Mozambique). 
 
 This graph shows the beef consumption over time for all six countries.  
@@ -39,6 +42,7 @@ We also graph the beef consumption over time for the three low meat consumption 
 
 This graph shows that beef consumption in Mozambique is on an incline, Bangladesh is on a slight decline, and India appears to be constant for this year.  
 
+_Cardiovascular Disease Deaths Over Time_
 
 We want to explore also explore the cardiovascular disease death.  Therefore, we graph the amount of deaths from cardiovascular disease over time per 100,000 people. We focused on the same six countries for comparison purposes.  
 
@@ -60,6 +64,7 @@ We also graph the cardiovascular disease deaths over time for the three low meat
 
 This graph shows that the cardiovascular disease deaths is decreasing for Mozambique and Bangladesh and slightly decreasing for India.  This is contrary to the research study since Mozambique has a steep increase in beef consumption but also a steep decrease in cardiovascular disease deaths.  
 
+_Meat Consumption Over Time_
 
 Finally, to put the beef consumption trends into context, we graph poultry, sheep, pig, and beef consumption over time for one high meat consumption country (The United States) and one low meat consumption country (India).  
 

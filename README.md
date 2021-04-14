@@ -30,6 +30,12 @@ https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/US
 
 This data set contains the consumption of beef, poultry, sheep, and pig in the USA from 1990 to 2026 (predicted values).  This data was downloaded from [Kaggle](https://www.kaggle.com/vagifa/meatconsumption).
 
+5. Google Colab Notebook
+
+https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/2021_04_12_meat_consumption_analysis.ipynb
+
+This file contains the python data analysis and visualizations performed in the google colab notebook.  
+
 
 ## Data Analysis
 

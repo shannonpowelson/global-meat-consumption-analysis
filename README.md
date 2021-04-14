@@ -63,9 +63,9 @@ This graph shows that the cardiovascular disease deaths is decreasing for Mozamb
 
 Finally, to put the beef consumption trends into context, we graph poultry, sheep, pig, and beef consumption over time for one high meat consumption country (The United States) and one low meat consumption country (India).  
 
-Here is the graph for the poultry, sheep, pig, and beef consumption over time in the United States. 
+Here is the [graph](file:///Users/shannonpowelson/Downloads/USA_trend_line.html) for the poultry, sheep, pig, and beef consumption over time in the United States. 
 
-![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/other_meats_USA%20(2).png)
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/USA_meat_picture.png)
 
 Here is the graph for the poultry, sheep, pig, and beef consumption over time in India. 
 

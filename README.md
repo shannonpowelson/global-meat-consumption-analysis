@@ -67,7 +67,7 @@ We want to also explore cardiovascular disease deaths.  Therefore, we graph the 
 
 ![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/heart_death%20(2).png)
 
-Contrary to our expectations, the three low meat consumption countries have higher cardiovascular disease deaths.  
+Contrary to our expectations, the three low meat consumption countries have more cardiovascular disease deaths.  
 
 
 In order to get a better idea of the trends, we graph the cardiovascular disease deaths over time for the three high meat consumption countries.  

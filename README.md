@@ -69,7 +69,7 @@ Here is the graph for the poultry, sheep, pig, and beef consumption over time in
 
 Here is the graph for the poultry, sheep, pig, and beef consumption over time in India. 
 
-![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/other_meats_IND%20(1).png)
+![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/IND_meat_picture.png)
 
 In both of these graphs, poultry consumption is increasing more than the other meats.  
 

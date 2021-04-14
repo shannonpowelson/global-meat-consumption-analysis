@@ -63,7 +63,7 @@ This graph shows that beef consumption in Mozambique is on an incline, Banglades
 
 ### Cardiovascular Disease Deaths Over Time
 
-We want to explore also explore the cardiovascular disease death.  Therefore, we graph the amount of deaths from cardiovascular disease over time per 100,000 people. We focused on the same six countries for comparison purposes.  
+We want to also explore cardiovascular disease deaths.  Therefore, we graph the amount of deaths from cardiovascular disease over time per 100,000 people. We focused on the same six countries for comparison purposes.  
 
 ![alt text](https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/heart_death%20(2).png)
 

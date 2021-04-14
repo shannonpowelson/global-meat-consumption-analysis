@@ -10,13 +10,26 @@ _How has global beef consumption and the cardiovascular death rate changed over 
 
 https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/meat_consumption_worldwide.csv
 
-This data set contains the consumption of beef, poultry, sheep, and pig for many countries from 1991 to 2026 (predicted values).  This data was downloaded from [Kaggle](https://www.kaggle.com/vagifa/meatconsumption).
+This data set contains the consumption of beef, poultry, sheep, and pig for many countries from 1990 to 2026 (predicted values).  This data was downloaded from [Kaggle](https://www.kaggle.com/vagifa/meatconsumption).
 
 2. Cardiovascular Disease Death Rates
 
 https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/cardiovascular-disease-death-rates.csv
 
 This data set contains the number of cardiovascular disease deaths per 100,000 people for each country from 1990 to 2017.  This data was downloaded from [Our World in Data](https://ourworldindata.org/grapher/cardiovascular-disease-death-rates). 
+
+3. Meat Consumption in India
+
+https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/Meat_Consumption__India.csv
+
+This data set contains the consumption of beef, poultry, sheep, and pig in India from 1990 to 2026 (predicted values).  This data was downloaded from [Kaggle](https://www.kaggle.com/vagifa/meatconsumption).
+
+4. Meat Consumption in the USA
+
+https://github.com/shannonpowelson/global-meat-consumption-analysis/blob/main/USA_Meat_Consumption.csv
+
+This data set contains the consumption of beef, poultry, sheep, and pig in the USA from 1990 to 2026 (predicted values).  This data was downloaded from [Kaggle](https://www.kaggle.com/vagifa/meatconsumption).
+
 
 ## Data Analysis
 
@@ -79,7 +92,7 @@ Here is the graph for the poultry, sheep, pig, and beef consumption over time in
 In both of these graphs, poultry consumption is increasing more than the other meats.  
 
 ## Summary
-Overall, beef consumption over time and cardiovascular disease deaths over time do not appear to have similar trends.  In fact there are trends that contradict the study that claims that higher beef consumption is linked to a higher risk of cardiovascular disease death.  Both Israel and Mozambique contradict this study since they have increasing beef consumption and decreasing cardiovascular disease deaths.  In addition, the three low beef consumption countries have more cardiovascular disease deaths than the three high beef consumption countries.  Therefore, there are likely confounding variables impacting these results.  Future research on GDP, religion, exercise, and healthcare in these countries over time could provide more insight.  Linear regression should also be used to see if there are any correlations.  This analysis is important for the medical field because it shows that studies on red meat and cardiovascular disease should also take other lifestyle variables into consideration.
+Overall, beef consumption over time and cardiovascular disease deaths over time do not appear to have similar trends.  In fact there are trends that contradict the study that claims that higher beef consumption is linked to a higher risk of cardiovascular disease death.  Both Israel and Mozambique contradict this study since they have increasing beef consumption and decreasing cardiovascular disease deaths.  In addition, the three low beef consumption countries have more cardiovascular disease deaths than the three high beef consumption countries.  Therefore, there are likely confounding variables impacting these results.  Also, these graphs alone do not show whether or not countries are adopting a Mediterranean diet (more data on fish and plant consumption is also needed).  Future research on GDP, religion, exercise, and healthcare in these countries over time could provide more insight.  Linear regression should also be used to see if there are any correlations.  This analysis is important for the medical field because it shows that studies on red meat and cardiovascular disease should also take other lifestyle variables into consideration.
 
 ## Python Comments
 Python was useful in this analysis because we could easily make line graphs showing meat consumption over time.  Also, python allowed for the data set to be isolated based on meat or country which was also useful for these visualizations.  However, vlookup from excel could have added to this analysis since then the cardiovascular disease death rates and the meat consumption could be plotted on the same chart even though they were originally from different excel spreadsheets.  
